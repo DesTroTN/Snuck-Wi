@@ -1,7 +1,7 @@
 ## Snuck-WIFI
 
 ## ABOUT:
-SNUCK WIFI script can sniff and spooff wifi and you can make fake wifi to get someone information but do it carfully.
+SNUCK WIFI a tool can spoof wifi and can creat fake wifi point. (u can use it with wireshark to get the victime information)
 
 ## DEPENDENCIES(Linux):
 * python3
