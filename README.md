@@ -9,8 +9,8 @@ SNUCK WIFI script can sniff and spooff wifi and you can make fake wifi to get so
 * dnsmasq
 ### Screen Shoot :
    * ##### Random Website:
-      * <img src="https://github.com/DesTroTN/Snuck-wi/blob/master/img/snif.PNG?raw=true" alt="xss" border="0"></a>
-      * <img src="https://github.com/DesTroTN/Snuck-wi/blob/master/img/sw.PNG?raw=true">
+      * <img src="https://github.com/DesTroTN/Snuck-Wi/blob/main/img/snif.png?raw=true?raw=true" alt="xss" border="0"></a>
+      * <img src="https://github.com/DesTroTN/Snuck-wi/blob/main/img/sw.png?raw=true">
 
 #### OS Support :
 - <h5> Linux</h5>
